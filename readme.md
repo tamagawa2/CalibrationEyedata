@@ -2,7 +2,7 @@
 ![EyeTrackingAimの全体説明](./readme/20240114_eyetrack.png)
 デモ動画　https://www.youtube.com/watch?v=Yf-E6yyvOr4&t=3s
 ## 使い方
-1. まずC#で作ったEyetrackingAimプログラムを使ってデータを集めてください。ここにurl
+1. まずC#で作ったEyetrackingAimプログラムを使ってデータを集めてください。[EyeTrackngAim](https://github.com/tamagawa2/EyeTrackingAim)
 2. requirements.txtを使って、必要なライブラリを環境にインストールしてください。
 ```bash
 pip install -r requirements.txt
